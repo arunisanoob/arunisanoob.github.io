@@ -1,2 +1,2 @@
-# arunisanoob.github.io
+# arunisanoob
 arun is a noob
